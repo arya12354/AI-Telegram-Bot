@@ -3,7 +3,7 @@ import os
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = os.getenv("8562268215:AAGt7vOpgX2mPFalhEpqAzQIGGSU1XLpO2c")
+TOKEN = os.getenv("8765492194:AAEQMOhdXdquOy61rK_z-xk-Zg6Y0yq0VvI")
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("✅ ربات روشن شد")
