@@ -11,7 +11,7 @@ from telegram.ext import (
 
 
 # دریافت کلیدها از Railway Variables
-TELEGRAM_TOKEN = os.environ.get("8765492194:AAEQMOhdXdquOy61rK_z-xk-Zg6Y0yq0VvI")
+TELEGRAM_TOKEN = os.environ.get("8852051053:AAGtQNiwmIcCGJ2xcKVIkda7hsNxsic03_o")
 NVIDIA_API_KEY = os.environ.get("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")
 
 
